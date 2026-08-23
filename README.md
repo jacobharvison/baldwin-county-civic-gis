@@ -82,10 +82,10 @@ georeferencing were done in the QGIS project in [`qgis/`](qgis/).
 
 ## Key Outputs
 
-![SVI choropleth with facility overlay]([maps/svi_facilities.png])
+![SVI choropleth with facility overlay](maps/svi_facilities.png)
 *[One-line caption: what this map shows and the takeaway.]*
 
-![Demographic composition choropleth]([maps/demographics.png])
+![Demographic composition choropleth](maps/demographics.png)
 *[One-line caption.]*
 
 ---
