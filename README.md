@@ -40,9 +40,9 @@ The scripted portions live in scripts/; the interactive cartography and georefer
 
 Key Outputs
 
-Show Image [One-line caption: what this map shows and the takeaway.]
+![SVI choropleth](maps/svi_facilities.png)
 
-Show Image [One-line caption.]
+![Demographic composition choropleth](maps/demographics.png)
 
 Findings
 
